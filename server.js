@@ -13,7 +13,7 @@ const executableSchema = makeExecutableSchema({
 
 addMockFunctionsToSchema({
   schema: executableSchema,
-  mocks: mocks,
+  mocks,
   preserveResolvers: true,
 });
 

@@ -28,6 +28,7 @@
   "dependencies": {
     "apollo-server": "^0.3.3",
     "body-parser": "^1.17.1",
+    "casual": "^1.5.12",
     "express": "^4.15.2",
     "graphql-tools": "^0.11.0"
   },
